@@ -1,1 +1,3 @@
 # filename
+
+pip install xpinyin
